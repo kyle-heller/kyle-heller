@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Kyle Heller
 
-Welcome to my GitHub profile! I'm a software developer with a passion for building applications that make a difference. Here's a little about what I'm up to and how you can get in touch:
+Welcome to my GitHub profile! I'm an aspiring software developer with a passion for building applications that make a difference. 
 
 ## 🔭 I’m currently working on...
-A social goal setting application using Java. It's a project that's close to my heart, aiming to help users set, track, and achieve their personal and professional goals. I'm leveraging Spring Boot to bring this application to life, focusing on creating a robust and user-friendly experience.
+A social goal setting application using Java. It's a project that's close to my heart, aiming to help users set, track, and achieve their personal and professional goals with the people they love. 
 
 ## 🌱 I’m currently learning...
 My current learning journey includes diving deep into Spring Boot to enhance my Java projects. I'm committed to mastering this powerful framework to develop high-performing, scalable applications. Additionally, I have my sights set on expanding my skills with Python in the near future, exploring its versatility and simplicity for various projects.
