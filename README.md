@@ -1,7 +1,3 @@
-# Hi there 👋, I'm Kyle Heller
-
-Welcome to my GitHub profile! I'm an aspiring software developer with a passion for building applications that make a difference. 
-
 ## 🔭 A bit about me...
 I'm currently working as a technical lead in a software support department. I'm enjoy helping my team succeed in any way I can. I'm currently applying to graduate schools for computer science and I'd love to find a position where I could move more into the world of software development. I am loving Java for its rich toolset but have experience with Ruby/Rails and a bit of Python.
 
