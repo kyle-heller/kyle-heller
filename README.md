@@ -1,5 +1,5 @@
 ## 🔭 A bit about me...
-I'm currently working as a technical lead in a software support department. I enjoy helping my team succeed in any way I can and I love looking for ways to implement the coding skills/knowledge I've gained in my work. At some point I'd love to lean more into the world of software development.  I am loving Java for its rich toolset but have experience with Ruby/Rails and a bit of Python.
+I'm currently working as a technical lead in a software support department. I enjoy helping my team succeed in any way I can and love finding new ways to implement the coding skills/knowledge I've gained in my work.  I am loving Java for its rich toolset but have experience with Ruby/Rails as well as a bit of Python and C#.
 
 ## 🌱 I’m currently learning...
 I'm currently diving deep into Spring to enhance my Java projects. I'm committed to mastering this powerful framework to develop high-performing, scalable applications. Additionally, I have my sights set on expanding my skills with Python in the near future.
